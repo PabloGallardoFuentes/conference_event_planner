@@ -269,7 +269,7 @@
   }
   .left_navbar{
     width: 60vw;
-    display: flex;
+    display: contents;
     gap: 180px;
   
   }
